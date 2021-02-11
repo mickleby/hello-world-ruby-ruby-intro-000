@@ -1,2 +1,4 @@
+```ruby
 puts 'Hello, World!'
+```
 
